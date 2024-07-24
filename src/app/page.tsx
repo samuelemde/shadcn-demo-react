@@ -8,9 +8,9 @@ export default function HomePage() {
         Start adding components by either copy/pasting the code from the docs or
         by using the shadcn cli.
       </p>
-      <Button>
+      <Button size='xl'>
         <a href="https://ui.shadcn.com/docs" target="_blank">
-          Read the docs
+          Read the Docs 📚
         </a>
       </Button>
     </main>
